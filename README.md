@@ -6,5 +6,5 @@ I don't strictly "know" quote unquote where some of these came from, so I'm not 
 To use: just `git clone` this repo to the `~/Library/Developer/Xcode/UserData/FontAndColorThemes` folder ¯\_(ツ)_/¯
 
 ```sh
-git  clone https://github.com/ashfurrow/colourschemes.git --separate-git-dir /Users/ash/Library/Developer/Xcode/UserData/FontAndColorThemes
+git  clone https://github.com/ashfurrow/colourschemes.git  /Users/ash/Library/Developer/Xcode/UserData/FontAndColorThemes
 ```
